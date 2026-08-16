@@ -17,7 +17,7 @@ Foundation already names every country in every language, lists the regions, and
 
 What Foundation does **not** expose is the handful of facts an invoice actually turns on:
 
-| | |
+| Fact | What it decides |
 |---|---|
 | `alpha3`, `numeric` | ISO 3166-1, which customs paperwork asks for by number |
 | `isEU` | whether a supply is a reverse charge, an intra-community supply, or an export |
